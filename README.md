@@ -1,3 +1,7 @@
+Tinyexpr fork that works on arduino.
+
+Original readme:
+
 [![Build Status](https://travis-ci.com/codeplea/tinyexpr.svg?branch=master)](https://travis-ci.com/codeplea/tinyexpr)
 
 
